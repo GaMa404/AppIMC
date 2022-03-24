@@ -1,0 +1,15 @@
+C:\Users\PICHAU\Desktop\AppIMC\AppIMC\AppIMC\bin\Debug\netstandard2.0\AppIMC.deps.json
+C:\Users\PICHAU\Desktop\AppIMC\AppIMC\AppIMC\bin\Debug\netstandard2.0\AppIMC.dll
+C:\Users\PICHAU\Desktop\AppIMC\AppIMC\AppIMC\bin\Debug\netstandard2.0\ref\AppIMC.dll
+C:\Users\PICHAU\Desktop\AppIMC\AppIMC\AppIMC\bin\Debug\netstandard2.0\AppIMC.pdb
+C:\Users\PICHAU\Desktop\AppIMC\AppIMC\AppIMC\obj\Debug\netstandard2.0\AppIMC.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\AppIMC\AppIMC\AppIMC\obj\Debug\netstandard2.0\AppIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\AppIMC\AppIMC\AppIMC\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PICHAU\Desktop\AppIMC\AppIMC\AppIMC\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\PICHAU\Desktop\AppIMC\AppIMC\AppIMC\obj\Debug\netstandard2.0\AppIMC.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\AppIMC\AppIMC\AppIMC\obj\Debug\netstandard2.0\AppIMC.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\AppIMC\AppIMC\AppIMC\obj\Debug\netstandard2.0\AppIMC.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\AppIMC\AppIMC\AppIMC\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\PICHAU\Desktop\AppIMC\AppIMC\AppIMC\obj\Debug\netstandard2.0\AppIMC.dll
+C:\Users\PICHAU\Desktop\AppIMC\AppIMC\AppIMC\obj\Debug\netstandard2.0\ref\AppIMC.dll
+C:\Users\PICHAU\Desktop\AppIMC\AppIMC\AppIMC\obj\Debug\netstandard2.0\AppIMC.pdb
